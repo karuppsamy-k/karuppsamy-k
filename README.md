@@ -138,7 +138,7 @@ including **Honeywell** and **Rockwell Automation**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karuppasamy-k-a770272a0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karuppasamy.k.dev@gmail.com)
 
-📍 Tamil Nadu, India &nbsp;|&nbsp; 📞 +91 93442 26400
+📍 Bengaluru, India &nbsp;|&nbsp; 📞 +91 93442 26400
 
 </div>
 
