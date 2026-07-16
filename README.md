@@ -46,49 +46,74 @@ including **Honeywell** and **Rockwell Automation**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Engineering Capabilities
 
-### Android Core
-<img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_21--35-3DDC84?style=flat-square"/>
-<img src="https://img.shields.io/badge/AOSP-000000?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=header" width="100%"/>
 
-### Camera & Media
-<img src="https://img.shields.io/badge/CameraX-4285F4?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Camera2_API-4285F4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Image_Processing-4285F4?style=flat-square"/>
+### 📱 Android & Native Engineering
 
-### Architecture & SDK Design
-<img src="https://img.shields.io/badge/Modular_AAR_Design-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/SOLID_Principles-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dependency_Injection-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/Design_Patterns-informational?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github" height="55"/>
 
-### Cross-Platform
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JSI_Bridge-61DAFB?style=flat-square"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+- Android SDK development across **API 21–35**, AOSP-aligned native pipelines
+- CameraX (Preview · ImageCapture · ImageAnalysis) & Camera2 API pipelines
+- Modular **AAR** packaging with versioned, documented public API surfaces
+- Image processing & lifecycle-aware camera session management
+- OOM/ANR elimination via custom buffer-pooling & heap optimization
 
-### Testing & Quality
-<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio_Profiler-25A162?style=flat-square"/>
-<img src="https://img.shields.io/badge/Memory_%26_CPU_Profiling-25A162?style=flat-square"/>
-<img src="https://img.shields.io/badge/Crash_Analysis-25A162?style=flat-square"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&section=header" width="100%"/>
 
-### Tools & DevOps
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agile%2FScrum-414141?style=flat-square"/>
+### 🏗️ Architecture & SDK Design
 
-### Familiar With
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xtext-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID_Principles-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dependency_Injection-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design_Patterns-8E44AD?style=for-the-badge"/>
+
+- Versioned, modular SDK architecture with documented integration contracts
+- Zero-escalation self-integration design for external client teams
+- Hilt-based dependency injection & SOLID-aligned module boundaries
+- Public API design reviewed end-to-end from spec to release
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&section=header" width="100%"/>
+
+### 🌉 Cross-Platform & Native Bridging
+
+<img src="https://skillicons.dev/icons?i=react,typescript" height="55"/>
+
+- JSI-compatible native module bridges (Android ↔ React Native)
+- Promise/EventEmitter architecture replacing legacy callback bridges
+- React Native New Architecture (TurboModules + JSI) proof-of-concept R&D
+- Semantic-versioned SDK plugin releases with upgrade migration guides
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&section=header" width="100%"/>
+
+### 🧪 Testing, Quality & Performance
+
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Profiler-25A162?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+
+- JUnit suites covering lifecycle edge cases & error boundaries (70%+ coverage)
+- Android Studio CPU/Memory profiling for crash-cluster triage
+- Pre-release regression interception across multi-cycle release cadences
+- Device-matrix validation across 8+ OEM hardware families
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&section=header" width="100%"/>
+
+### 🛠️ Tools, DevOps & Release Management
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,androidstudio" height="55"/>
+
+- Google Play Console release lifecycle — phased rollout, crash monitoring
+- 99.5%+ crash-free release rate maintained across active production builds
+- Agile/Scrum delivery cadence across cross-functional teams
+- Git-based version control & structured code review practices
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&section=header" width="100%"/>
+
+### 🧩 Also Exploring
+
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xtext-6D6D6D?style=for-the-badge"/>
 
 ---
 
@@ -108,29 +133,6 @@ including **Honeywell** and **Rockwell Automation**.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=karuppasamy-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karuppasamy-k&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuppasamy-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karuppasamy-k&theme=darkhub&no-frame=true&row=1&column=6" />
-
-</div>
-
-> **Note:** these widgets render real numbers pulled live from your account —
-> don't worry that they look sparse right now. As you push commits to the
-> repos in File 3, these fill in automatically. No manual editing needed.
-
----
-
 ## 📫 Contact
 
 <div align="center">
@@ -138,7 +140,7 @@ including **Honeywell** and **Rockwell Automation**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karuppasamy-k-a770272a0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karuppasamy.k.dev@gmail.com)
 
-📍 Bengaluru, India &nbsp;|&nbsp; 📞 +91 93442 26400
+📍 Tamil Nadu, India &nbsp;|&nbsp; 📞 +91 93442 26400
 
 </div>
 
